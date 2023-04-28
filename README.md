@@ -6,8 +6,6 @@ Receive astronomical images in Messenger bale.
 >  - Sun
 >  * black holes
 >  * Etc
-
-"image": "https://apod.nasa.gov/apod/image/1005/IguacuNight-Labeled-tafreshi_900.jpg",
 ------------------------------------------------------------------------------------
 دریافت تصاویر نجومی در پیام رسان ایرانی بله
 > دریافت تصاویر نجوم و ... از api ناسا
